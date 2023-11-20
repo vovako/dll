@@ -1,0 +1,6 @@
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\volodyaLibrary\bin\Debug\volodyaLibrary.dll
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\volodyaLibrary\bin\Debug\volodyaLibrary.pdb
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\volodyaLibrary\obj\Debug\volodyaLibrary.csproj.AssemblyReference.cache
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\volodyaLibrary\obj\Debug\volodyaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\volodyaLibrary\obj\Debug\volodyaLibrary.dll
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\volodyaLibrary\obj\Debug\volodyaLibrary.pdb

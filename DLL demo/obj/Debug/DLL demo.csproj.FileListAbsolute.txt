@@ -1,0 +1,10 @@
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\bin\Debug\DLL demo.exe.config
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\bin\Debug\DLL demo.exe
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\bin\Debug\DLL demo.pdb
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\bin\Debug\volodyaLibrary.dll
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\bin\Debug\volodyaLibrary.pdb
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\obj\Debug\DLL demo.csproj.AssemblyReference.cache
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\obj\Debug\DLL demo.csproj.CoreCompileInputs.cache
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\obj\Debug\DLL demo.csproj.CopyComplete
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\obj\Debug\DLL demo.exe
+C:\Users\kondaurov.vm1232\source\repos\DLL demo\DLL demo\obj\Debug\DLL demo.pdb
